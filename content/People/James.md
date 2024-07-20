@@ -1,0 +1,5 @@
+- Second owner of the [[Trollskull Manor]].
+- Bought the manor from [[Lif]] the day before [[Lif]]'s Murder.
+- Very distressed about the situation and wanted to get rid of the property.
+- Gave it to [[P'mis]] and [[Shoa]].
+- Very Rich???

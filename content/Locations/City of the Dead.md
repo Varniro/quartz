@@ -1,0 +1,3 @@
+- Locked out and walled area of a city, associated with necromancers.
+- Guards present at all entrances, do not allow anyone to enter without official government permission.
+- Can be a potential base of operations for [[The Phantom of Waterdeep]].

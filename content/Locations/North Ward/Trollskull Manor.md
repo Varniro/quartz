@@ -1,0 +1,7 @@
+- Manor located in the [[North Ward]].
+- Previously owned by a person named [[Lif]].
+- Sold to a person named [[James]].
+- Became the site for the murder of [[Lif]]  by [[The Phantom of Waterdeep]] the day after it was sold.
+- Basement haunted by the ghost of [[Lif]].
+- Now owned by [[P'mis]] and [[Shoa]].
+- Very close to the [[City of the Dead]].

@@ -1,0 +1,4 @@
+Druid - Wood Elf
+
+He grew up in a forest having to hunt to survive. At some point in his childhood the connection to the forest and the animals started to grow. He noticed that when a small bird told him that there was a deer that was dying and wished to be freed from his suffering. After that he started to learn a bit of his connection to the animals from them and he helped to keep the smaller ones safe from larger predators. He entered Waterdeep to see what the world outside the forest was like as he only saw them enter and heard the city during the day if he was close.
+![[Pasted image 20240718130056.png]]
