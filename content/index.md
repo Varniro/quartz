@@ -13,6 +13,8 @@ A thrilling campaign set in the enigmatic city of Waterdeep. Amidst the bustling
 # Checkout the Sessions
 
 ## [[Session-1 (2024-07-18)]]
+
+## [[Session-2 (2024-07-20)]]
 ___
 
 # Meet the Players!

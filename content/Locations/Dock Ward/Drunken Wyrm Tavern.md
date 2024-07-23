@@ -1,0 +1,2 @@
+- Tavern Located in the heart of [[Dock Ward]].
+- Meeting place with the informant [[Whisper]], about the [[Black Hand]] organization.

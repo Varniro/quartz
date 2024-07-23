@@ -1,0 +1,6 @@
+ - One of the many artisan guild in [[Waterdeep]].
+ - The office is located in a Large guild hall where all the guilds are located.
+ - The receptionist of the guild is a dwarf named [[Dworic Broodfist]].
+ - The fees for joining the guild is 15 GP per month along with 10% of the income from the product must go to the guild.
+ - The few maybe increased by the guild and the contract is to be renewed every year.
+ - The guild also sells any equipment needed for the work.

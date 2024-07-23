@@ -1,3 +1,4 @@
 - Locked out and walled area of a city, associated with necromancers.
 - Guards present at all entrances, do not allow anyone to enter without official government permission.
-- Can be a potential base of operations for [[The Phantom of Waterdeep]].
+- Contains many tombs and graves, including the tomb of the [[Deepwinter]].
+- Has entrance to an underground passage leading to a Cult temple associated with [[Ragnar the BloodEagle]].
