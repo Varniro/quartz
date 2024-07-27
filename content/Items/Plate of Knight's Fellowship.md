@@ -17,3 +17,6 @@ The wearer has disadvantage on Dexterity (Stealth) checks.
 If the wearer has a Strength score lower than 15, their speed is reduced by 10 feet.
 ___
 Source: BMT, page 37
+
+
+#magical_item 

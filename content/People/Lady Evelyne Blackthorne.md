@@ -2,3 +2,8 @@
 - She seeks brave adventurers to uncover the Phantom’s identity and put an end to their sinister plans.
 - Can apparently communicate with rats.
 - Paid [[Shoa]] and [[P'mis]] 200 gold for the assignment regarding the [[The Phantom of Waterdeep]].
+- Presumed dead after her manor which was built on top of a temple of [[Ragnar the BloodEagle]] collapsed.
+- [[Julius Margaster]] believes she was kidnapped.
+
+
+#unknown 
