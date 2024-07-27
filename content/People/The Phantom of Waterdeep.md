@@ -14,16 +14,21 @@ The party initially theorized that the various seemingly random killings have be
 - The only one killing per day rule seems to have been broken due to an unknown reason with three killings happening within the span of a few hours.
 - Each Phantom has a different weapon and style.
 - Phantom's may complete missions in other areas if need be.
+- High chances of the group being involved with the [[Traditionalist Party]].
+- The killings form a very rough pentagram over the entire city.
+- [[Penelope Titlivlus]]'s shop is located in the middle of the pentagram.
+- The group seems to be connected to Devils as the pentagram is somehow related to the revenge of the Devils against Penelope
 
-| **Ward**              | **Phantom's Name** | **Weapon of Choice** |
-| --------------------- | ------------------ | -------------------- |
-| **[[North Ward]]**    | Unknown            | Dagger               |
-| **[[Sea Ward]]**      | Unknown            | Short sword*         |
-| **[[Dock Ward]]**     | Unknown            | Short sword*         |
-| **[[Trades Ward]]**   | Unknown            | -                    |
-| **[[Southern Ward]]** | Unknown            | -                    |
-| **[[Castle Ward]]**   | Unknown            | -                    |
-\* Represents unconfirmed weapons
+| **Ward**              | **Phantom's Name** | **Victims**                                                  | **Weapon of Choice** |
+| --------------------- | ------------------ | ------------------------------------------------------------ | -------------------- |
+| **[[North Ward]]**    | Unknown            | [[Lif]], [[Theriastis Lucan]], [[Lady Evelyne Blackthorne]]# | Dagger               |
+| **[[Sea Ward]]**      | Unknown            | [[Squirellnut Family]]                                       | Short sword*         |
+| **[[Dock Ward]]**     | Unknown            | [[Naal Reverem]]                                             | Short sword*         |
+| **[[Trades Ward]]**   | Unknown            | [[Penelope Titlivlus]]#                                      | -                    |
+| **[[Southern Ward]]** | Unknown            | [[Arne Hulina]]                                              | Improvised Weapon*   |
+| **[[Castle Ward]]**   | Unknown            | None                                                         | -                    |
+- \* Represents unconfirmed weapons
 
+- \# Represents suspected victims
 
 #evil 

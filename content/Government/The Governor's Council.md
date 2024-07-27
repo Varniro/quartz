@@ -9,30 +9,33 @@ ___
 
 Governor: Captain Loric Salt
 
-Relation: Neutral
-Reason: Focused on maintaining order in a chaotic area; open to crime crackdown but cautious of reforms affecting trade.
+- Relation: Neutral
+- Reason: Focused on maintaining order in a chaotic area; open to crime crackdown but cautious of reforms affecting trade.
 ___
 ## The [[North Ward]]
 
 Governor: Lady Vivienne Raventree
 
-Relation: Neutral to Friendly
-Reason: Supports some social reforms and worker welfare initiatives.
+- Relation: Neutral to Friendly
+- Reason: Supports some social reforms and worker welfare initiatives.
 ___
 ## The [[Sea Ward]]
+
 Governor: Lord Reginald Hawkwinter
 
-Relation: Hostile
-Reason: Strong Traditionalist Party leader, opposes reforms limiting noble power.
+- Relation: Hostile
+- Reason: Strong Traditionalist Party leader, opposes reforms limiting noble power.
 ___
 ## The [[Southern Ward]]
+
 Governor: Mayor Cedric Bronzebuckle
 
-Relation: Neutral to Friendly
-Reason: Supports welfare initiatives and crime crackdown.
+- Relation: Neutral to Friendly
+- Reason: Supports welfare initiatives and crime crackdown.
 ___
 ## The [[Trades Ward]]
+
 Governor: Guildmaster Victor Highwind
 
-Relation: Suspicious
-Reason: Focused on protecting trade interests, cautious of nationalization and tax reforms.
+- Relation: Suspicious
+- Reason: Focused on protecting trade interests, cautious of nationalization and tax reforms.

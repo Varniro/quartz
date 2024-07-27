@@ -1,11 +1,6 @@
----
-draft: "true"
----
-
-Childhood Best friend
-
-Poor
-
-Sacrificed Himself when we caught stealing the golden apple from the [[Alteka Family]] estate.
+ - Childhood Best friend of [[Clanger Agundar]].
+- A poor child from [[Dock Ward]].
+ - Sacrificed Himself when Clanger and him were caught stealing a golden apple from the [[Alteka Family]] estate.
+ - Missing since, presumed dead.
 
 #unknown 

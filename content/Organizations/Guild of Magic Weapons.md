@@ -1,0 +1,4 @@
+- One of the many artisan guild in [[Waterdeep]].
+- The office is located in a Large guild hall where all the guilds are located.
+- [[Killian Morden]] belongs to this Guild.
+- One of the members was possessed by a devil during the incident involving the creation of [[The Red Cheesepull]]

@@ -7,6 +7,7 @@ Other notable locations where the order is present include [[Neverwinter]].
 ---
 ### Notable Members
 
+- [[Savra]] - Current Order master.
 - [[P'mis]] - Kobold Paladin adopted by the Order.
 - [[Sir Alistair]]* - [[P'mis]]'s Mentor and a revered Paladin within the order.
 - [[Bob the Wizard]] - A talented and experienced wizard under the order.

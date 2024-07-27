@@ -1,4 +1,4 @@
- - A Sacred sword created by the blessing of [[Bahamut]].
+ - A Sacred sword created by the blessing of [[Bahamut]] upon [[P'mis]]'s sword by the [[Order of the Gauntlet]] as a reward for his excellent work defeating the cult of [[Ragnar the BloodEagle]].
  - Grants [[P'mis]] a +1 bonus to attack and damage rolls made with this magic weapon.
  - As [[P'mis]] partially faithful to [[Bahamut]] being a Kobold, he can use - 
 	
