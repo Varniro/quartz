@@ -4,6 +4,8 @@ The [[Waterdeep]] headquarters of the order are located in the [[Castle Ward]].
 
 Other notable locations where the order is present include [[Neverwinter]].
 
+The order has around 1000 Paladins, 400 Clerics, 200 Fighters and 50 wizards along with other minor members.
+
 ---
 ### Notable Members
 
@@ -17,6 +19,7 @@ Other notable locations where the order is present include [[Neverwinter]].
 - [[Egnatius]] - Paladin of the order, trained by [[Sir Quintilian]]
 - [[Manius]] - Paladin of the order, trained by [[Sir Quintilian]]
 - [[Servius]] - Paladin of the order, trained by [[Sir Quintilian]]
+- [[Ronald]]- Cleric of the order.
 
 (* Indicates deceased members)
 

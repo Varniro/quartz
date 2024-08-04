@@ -1,0 +1,3 @@
+- A Dagger made from a peculiar metal from hell that always radiates very high amount of heat.
+- Found in a house being occupied by a devil in disguise.
+- Currently in possession of [[Clanger Agundar]].

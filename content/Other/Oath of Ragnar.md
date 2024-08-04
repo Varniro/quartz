@@ -1,0 +1,3 @@
+- An oath taken by most members by [[The Cult of Ragnar]].
+- Kills the members who speak anything about [[The Phantom of Waterdeep]].
+- May have other effects.

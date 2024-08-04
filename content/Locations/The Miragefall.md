@@ -1,0 +1,6 @@
+- A magical mansion located on the 7th Street in [[Dock Ward]], initially owned by [[Julius Margaster]].
+- Given to [[Clanger Agundar]] as a safe house after his office in the dock ward was burnt down.
+- The manor is invisible to anyone except Clanger and people he chooses to let in.
+- Requires Clanger to blink 7 times in a row to make it appear.
+- The ground floor is filled with traps and the actual entrance of the house is a secret entrance that leads directly to the first floor.
+- Currently houses [[Penelope Titlivlus]] and [[Clanger Agundar]].

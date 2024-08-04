@@ -1,0 +1,2 @@
+ - A magical forest filled with rainbows and unicorns.
+ - Located nearby [[The Crimson Forest]].

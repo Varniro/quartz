@@ -3,8 +3,11 @@
 - Symbol: A crimson eagle with spread wings, its talons dripping blood.
 ---
 - An Evil god worshipped by cultists in [[Waterdeep]].
-- Had at least one temple dedicated to them which has been destroyed by the [[Order of the Gauntlet]].
----
+- Had at least one temple dedicated to them which has been destroyed by the [[Order of the Gauntlet]]
+
+![[Pasted image 20240804215432.png]]
+
+___
 ### Background and Lore
 
 Ragnar the Blood-Eagle is a feared and malevolent deity who revels in chaos, bloodshed, and the dark arts. Once a mortal warlord of immense cruelty, Ragnar ascended to godhood through a series of horrific sacrifices and demonic pacts. His followers believe that he sits upon a throne of bones in the Abyss, surrounded by the spirits of those he has claimed through his vile rituals.

@@ -1,0 +1,5 @@
+- Marshlands located in the outskirts of [[Waterdeep]].
+- Contain many ruins including towers and castles.
+- Houses rich fauna including crocodiles and unicorns.
+- Has minor [[The Cult of Ragnar]] activity.
+- Near by the tower of [[Aelorian the Red]].

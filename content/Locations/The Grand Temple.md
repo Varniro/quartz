@@ -1,0 +1,2 @@
+- Cultist base located in [[The Crimson Forest]].
+- First discovered by [[Sir Alistair]].
