@@ -1,11 +1,11 @@
 ___
 - An oversight committee to investigate corruption within the Parliament and other city offices.
 - 9 Members
-- Chairman - Edmund Kingside [[The Radiant Order]]
+- Chairman - Edmund Kingside of [[The Radiant Order]]
 ___
-- [[Clanger Agundar]]
+- [[Clanger Agundar]] of [[The Dawn of Freedom Party]]
 - 3 People from [[Loyalist Party]]
-- 1 from [[Traditionalist Party]]
-- 1 from [[The Phoenix Alliance]]
+- 1 Person from [[Traditionalist Party]]
+- 1 Person from [[The Phoenix Alliance]]
 - 1 independent reformist candidate
-- 1 from [[The Sapphire Scribes]]
+- 1 Person from [[The Sapphire Scribes]]
