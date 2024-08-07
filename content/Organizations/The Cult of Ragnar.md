@@ -4,6 +4,6 @@
 - Some members of the cult work in conjunction with [[The Phantom of Waterdeep]], but not all.
 - Use *Infernal* and *Giant* for communication.
 - Most members take the [[Oath of Ragnar]].
-- Maybe related to the [[]]
+- Maybe related to the [[Loyalist Party]].
 
 #evil 

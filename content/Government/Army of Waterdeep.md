@@ -1,0 +1,3 @@
+- Consists of about 100,000 soldiers.
+- Has two generals [[Kieran Eagleborn]] and [[Francis Falcon]].
+- Currently stationed outside the city of [[Waterdeep]].

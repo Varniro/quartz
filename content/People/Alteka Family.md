@@ -7,5 +7,7 @@
 - Finally the government bought it and hasn't touched it since.
 - Their estate became the location of the 3rd murder by [[The Phantom of Waterdeep]] of [[Theriastis Lucan]].
 - According to [[Aelorian the Red]], they were a family of very powerful magic users, however not noble neither evil.
-
+___
+![[Pasted image 20240807221502.png]]
+___
 #dead 

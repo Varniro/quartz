@@ -1,3 +1,5 @@
 - Located in [[Castle Ward]].
 - Famous for having the entrance to a dungeon in the middle of it.
 - Got robbed during the investigation regarding [[The Phantom of Waterdeep]] but no clues were found.
+- Sold and Demolished now due to bankruptcy.
+- Previously owned by [[Durnan]]

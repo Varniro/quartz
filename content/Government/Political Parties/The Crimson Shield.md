@@ -1,6 +1,6 @@
   
 - Members: 12
-- Leader: Baroness Morganna Bloodraven
+- Leader: [[Baron Morgan Bloodraven]]
 ___
 - Relation: Hostile
 - Reason: Prefers a strong military and conservative values, opposes limiting noble powers.

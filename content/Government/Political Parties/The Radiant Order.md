@@ -1,6 +1,6 @@
   
 - Members: 16
-- Leader: Sir Alistair Brightblade
+- Leader: [[Sir Alistair Brightblade]]
 ___
 - Relation: Friendly
 - Reason: Supports justice, welfare, and cracking down on corruption, aligning with the Dawn of Freedom's goals.
